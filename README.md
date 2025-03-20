@@ -5,7 +5,8 @@ Define the path of the trained model as follows:
 
 on the FrozenAgent.py
 
-# Define the correct path
+Define the correct path
+
 model_path = r"HERE"
 
 THX KARMAN:)
