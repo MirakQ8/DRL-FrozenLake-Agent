@@ -1,12 +1,18 @@
 # FROZEN-LAKE-AGENT
-Download the trained model: frozen_lake_dqn.
-Download the script: FrozenAgent.py.
-Define the path of the trained model as follows:
 
-on the FrozenAgent.py
+This project contains a Deep Q-Learning (DQN) agent trained to solve the Frozen Lake environment.
 
-Define the correct path
+## Files
 
-model_path = r"HERE"
+- Trained model: `frozen_lake_dqn`
+- Script: `FrozenAgent.py`
 
-THX KARMAN:)
+## Usage
+
+1. Download both the trained model and the script.
+2. In `FrozenAgent.py`, set the correct path to the model file.
+
+Example:
+
+```python
+model_path = r"YOUR/PATH/TO/frozen_lake_dqn"
